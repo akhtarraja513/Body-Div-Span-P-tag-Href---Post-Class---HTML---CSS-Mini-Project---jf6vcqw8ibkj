@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.parallaxone {
+    width: 100%;
+    height: 650px;
+    background-image: url('./imag/dubai-1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.parallaxone h2 {
+    position: relative;
+    left: 575px;
+    top: 270px;
+    width: 275px;
+    height: auto;
+    padding: 10px;
+    background-color: #484747;
+    color: white;
+    text-align: center;
+}
+
+.parallaxtwo {
+    width: 100%;
+    height: 650px;
+    background-image: url('./imag/dubai-2.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.parallaxtwo h2 {
+    position: relative;
+    left: 600px;
+    top: 270px;
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    background-color: #484747;
+    color: white;
+    text-align: center;
+}
+
+.parallaxthree {
+    width: 100%;
+    height: 650px;
+    background-image: url('./imag/dubai-3.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.parallaxthree h2 {
+    position: relative;
+    left: 600px;
+    top: 270px;
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    background-color: #484747;
+    color: white;
+    text-align: center;
+}
+
+.parallaxfour {
+    width: 100%;
+    height: 650px;
+    background-image: url('./imag/buildings.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.parallaxfour h2 {
+    position: relative;
+    left: 600px;
+    top: 270px;
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    background-color: #484747;
+    color: white;
+    text-align: center;
+}
+
+.parallaxfive {
+    width: 100%;
+    height: 650px;
+    background-image: url('./imag/dubai-1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.parallaxfive h2 {
+    position: relative;
+    left: 600px;
+    top: 270px;
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    background-color: #484747;
+    color: white;
+    text-align: center;
+}
+
+.para {
+    padding: 50px;
+    height: 100px;
+    text-align: center;
+    background-color: #484342;
+    color: white;
+    font-size: 20px;
+}
